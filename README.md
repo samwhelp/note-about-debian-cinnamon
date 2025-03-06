@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Debian Cinnamon Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
 | [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
 
@@ -13,6 +14,10 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [字型](#字型)
+* [輸入法](#輸入法)
+* [佈景主題](#佈景主題)
+* [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html)
 * [ISO](#iso)
 * [相關筆記](#相關筆記)
 
@@ -24,6 +29,34 @@
 | 微調腳本 |
 | -------- |
 | [Debian Cinnamon Config](https://github.com/samwhelp/debian-cinnamon-adjustment) |
+| [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## 字型
+
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-debian/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/font-config/font-match-order) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-debian/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-debian/read/subject/grub.html) |
 
 
 
@@ -52,8 +85,9 @@
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Cinnamon Desktop 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Linuxmint Cinnamon 探索筆記](https://samwhelp.github.io/note-about-linuxmint-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-cinnamon) |
+| [Ubuntu Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
+| [Fedora Cinnamon 探索筆記](https://samwhelp.github.io/note-about-fedora-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cinnamon) |
 
 
 
