@@ -66,6 +66,17 @@
 
 ### Build ISO
 
+> [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/)
+
+
+| Debian / ISO Builder / Cinnamon | GitHub |
+| ----------------------------- | ------ |
+| [debian-iso-builder-respin-cinnamon](https://samwhelp.github.io/debian-iso-builder-respin-cinnamon/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-respin-cinnamon) |
+| [debian-iso-builder-remix-cinnamon](https://samwhelp.github.io/debian-iso-builder-remix-cinnamon/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-remix-cinnamon) |
+
+
+
+
 > [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/)
 
 
